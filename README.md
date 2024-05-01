@@ -49,7 +49,7 @@ Let us connect to build the future of software together.
 </p>
 <p align="center"> 
    <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=SQLite" alt="sqlite" height='27.5'/>
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=jupyter" alt="jupyter" height='27.5'/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=Jupyter" alt="Jupyter" height='27.5'/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=vscode&message=vscode" alt="VScode" height='27.5'/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=Terminal&message=Terminal" alt="Terminal" height='27.5'/>
   
