@@ -6,7 +6,7 @@
 
 <h3 align="center">About Me</h3>
 <p>
-  I'm an AI Solutions Architect with a strong foundation in Full Stack Development and Cybersecurity. I specialize in designing, deploying, and securing scalable AI systems and data-driven backend architectures. By bridging complex machine learning capabilities—like Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)—with robust software engineering, I build secure, enterprise-grade solutions that solve real-world problems.
+  I'm an AI Solutions Architect with a strong foundation in Full Stack Development and Cybersecurity. I specialize in designing, deploying, and securing scalable AI systems and data-driven backend architectures. By bridging complex machine learning capabilities like Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with robust software engineering, I build secure, enterprise-grade solutions that solve real-world problems.
 
   Let's connect to build the intelligent, secure future of software together.
 </p>
